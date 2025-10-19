@@ -22,4 +22,4 @@ A modern SaaS application for public transport route planning in Casablanca, Mor
 
 ## Team
 
-- [ABDELILAH EL GUENNOUNI](https://github.com/elguennouni-dev) - Full Stack Developer
+- [ABDELILAH EL GUENNOUNI](https://github.com/elguennouni-dev) -- Full Stack Developer
